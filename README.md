@@ -8,7 +8,7 @@ To read:
     <ol>
       https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language</ol>
     <ol>
-      https://cs.lmu.edu/~ray/notes/paradigms/</ol>
+      https://cs.lmu.edu/~ray/notes/paradigms/</ol></ul>
   </li>
   <li>
     Write a blog on Difference between HTTP1.1 vs HTTP2
