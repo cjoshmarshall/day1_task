@@ -1,14 +1,14 @@
 # day1_task
 
-<ul>
+<ol>
 <li>
 To read:
-  <ul><ol>
-      https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-         dynamically-typed-languages</ol>
-    <ol>
-      https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language</ol>
-    <ol>
-      https://cs.lmu.edu/~ray/notes/paradigms/</ol></ul>
+  <ul><li>
+      https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-         dynamically-typed-languages</li>
+    <li>
+      https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language</li>
+    <li>
+      https://cs.lmu.edu/~ray/notes/paradigms/</li></ul>
   </li>
   <li>
     Write a blog on Difference between HTTP1.1 vs HTTP2
@@ -19,7 +19,7 @@ To read:
   <li>
     codekata practice
   </li>
-  </ul>
+  </ol>
   <br>
   <br>
 
